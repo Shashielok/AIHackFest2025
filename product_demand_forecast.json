@@ -1,0 +1,49 @@
+{
+  "productId": "P1175",
+  "forecastStart": "2025-04-13",
+  "forecastDays": 7,
+  "forecast": [
+    {
+      "date": "2025-04-13",
+      "ARIMA": 28,
+      "XGBoost": 28,
+      "LSTM": 13
+    },
+    {
+      "date": "2025-04-14",
+      "ARIMA": 14,
+      "XGBoost": 21,
+      "LSTM": 16
+    },
+    {
+      "date": "2025-04-15",
+      "ARIMA": 1,
+      "XGBoost": 8,
+      "LSTM": 13
+    },
+    {
+      "date": "2025-04-16",
+      "ARIMA": 10,
+      "XGBoost": 8,
+      "LSTM": 18
+    },
+    {
+      "date": "2025-04-17",
+      "ARIMA": 22,
+      "XGBoost": 29,
+      "LSTM": 27
+    },
+    {
+      "date": "2025-04-18",
+      "ARIMA": 21,
+      "XGBoost": 29,
+      "LSTM": 20
+    },
+    {
+      "date": "2025-04-19",
+      "ARIMA": 6,
+      "XGBoost": 28,
+      "LSTM": 11
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "periodStart": "2025-03",
+  "periodEnd": "2025-04",
+  "searchTerms": [
+    {
+      "searchTerm": "fuchsia",
+      "growthRate": 1041.7721518987341
+    },
+    {
+      "searchTerm": "minimalist loafer",
+      "growthRate": 830.188679245283
+    },
+    {
+      "searchTerm": "high-waisted shirt",
+      "growthRate": 806.5573770491802
+    },
+    {
+      "searchTerm": "low-rise blouse",
+      "growthRate": 801.851851851852
+    },
+    {
+      "searchTerm": "floral shirt",
+      "growthRate": 762.6865671641791
+    },
+    {
+      "searchTerm": "spring slim fit",
+      "growthRate": 735.2941176470588
+    },
+    {
+      "searchTerm": "floral coat",
+      "growthRate": 697.9166666666667
+    },
+    {
+      "searchTerm": "camel coat",
+      "growthRate": 594.8275862068965
+    },
+    {
+      "searchTerm": "slim fit sandals",
+      "growthRate": 587.1428571428571
+    },
+    {
+      "searchTerm": "striped skirt",
+      "growthRate": 528.0701754385965
+    }
+  ]
+}
